@@ -28,7 +28,7 @@
         </div>
         <div>
             <label for="id-password-repeat">password repeat</label>
-            <input type="password" name="passeword" id="id-password-repeat">
+            <input type="password" name="passeword-repeat" id="id-password-repeat">
         </div>
         <div>
             <input type="submit" value="envoyer">
